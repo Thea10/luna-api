@@ -1,0 +1,42 @@
+ [
+    {
+      "id": 1,
+      "name": "Honey",
+      "price": 1500,
+      "size": 500,
+      "img": "./images/honey-500.jpeg",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "name": "Coconut Oil",
+      "price": 1200,
+      "size": 150,
+      "img": "./images/coco-150.jpeg",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "name": "Honey",
+      "price": 1200,
+      "size": 300,
+      "img": "./images/honey-300.jpg",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "name": "Coconut Oil",
+      "price": 500,
+      "size": 50,
+      "img": "./images/coco-50.jpeg",    
+      "count": 1
+    },
+    {
+      "id": 5,
+      "name": "Coconut Oil",
+      "price": 1700,
+      "size": "50 150",
+      "img": "./images/coco15050.jpeg",
+      "count": 1
+    }
+  ]
